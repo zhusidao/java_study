@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <!-- AUTO_INCREMENTが付与されたカラムは省略可能 -->
+  <!-- 生成される値が一定ではないため、テスト対象から外す -->
+  <person name="hainet" />
+  <person name="spring-test-dbunit" />
+  <person name="person" />
+</dataset>
