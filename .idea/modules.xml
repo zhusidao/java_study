@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/data_structure_algorithm/data_structure_algorithm.iml" filepath="$PROJECT_DIR$/data_structure_algorithm/data_structure_algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-all/spring5/spring5.iml" filepath="$PROJECT_DIR$/spring-all/spring5/spring5.iml" />
     </modules>
   </component>
 </project>
